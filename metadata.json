@@ -1,0 +1,7 @@
+{
+  "name": "Gemini 智聽 - 專業語音轉錄工具",
+  "description": "利用 Gemini 3 Flash 模型提供的高準確度繁體中文語音轉錄服務，支援多種音檔格式上傳。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
