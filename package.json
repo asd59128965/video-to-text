@@ -1,7 +1,7 @@
 {
-  "name": "gemini-智聽---專業語音轉錄工具",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@asd59128965/video-to-text",
+  "private": false,
+  "version": "0.1.0",
   "type": "module",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
